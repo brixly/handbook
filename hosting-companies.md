@@ -8,6 +8,7 @@ In alphabetical order:
 * [A2 Hosting](https://www.a2hosting.com/)
 * [Amimoto](http://megumi-cloud.com/)
 * [Bluehost](http://www.bluehost.com/)
+* [Brixly](https://brixly.uk)
 * [Byte](https://www.byte.nl)
 * [Cloudways](http://cloudways.com)
 * [Dreamhost](http://dreamhost.com)
